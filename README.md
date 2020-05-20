@@ -1,6 +1,6 @@
-# draft-whited-kitten-password-storage
+# draft-ietf-kitten-password-storage
 Best practices for password hashing and storage
-([datatracker](https://datatracker.ietf.org/doc/draft-whited-kitten-password-storage/))
+([datatracker](https://datatracker.ietf.org/doc/draft-ietf-kitten-password-storage/))
 
 This is tracking a document of the [IETF kitten Working
 Group](https://datatracker.ietf.org/wg/kitten), and is subject to the
@@ -10,7 +10,7 @@ and see also the CONTRIBUTING.md file.
 Feel free to make pull requests against this README.md if you have made a
 review and would like it added.
 
-draft-whited-kitten-password-storage was adopted by kitten on 2020-06-19.
+draft-ietf-kitten-password-storage was first published as a kitten document on 2020-06-20.
 
 | Reviewer        | Review Date | Version Reviewed | Review Notes/Summary                  | Link to Review                                                            |
 |-----------------|-------------|------------------|---------------------------------------|---------------------------------------------------------------------------|

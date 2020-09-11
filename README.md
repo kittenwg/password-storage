@@ -15,3 +15,4 @@ draft-ietf-kitten-password-storage was first published as a kitten document on 2
 | Reviewer        | Review Date | Version Reviewed | Review Notes/Summary                  | Link to Review                                                            |
 |-----------------|-------------|------------------|---------------------------------------|---------------------------------------------------------------------------|
 | Simon Josefsson | 2020-04-28  | whited-00        | minor, sorting criteria, use of PLAIN | https://mailarchive.ietf.org/arch/msg/kitten/t8Yms70uBrbL-F_LP4Olim4WJrE/ |
+| Jim Fenton | 2020-09-04 | -00 | terminology clarifications, salt+pepper size and storage, handling common passwords | https://mailarchive.ietf.org/arch/msg/kitten/X6ltZh0F3QcKAjc3lumN7cAo3Kc/ |

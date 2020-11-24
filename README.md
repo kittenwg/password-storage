@@ -19,3 +19,4 @@ draft-ietf-kitten-password-storage was first published as a kitten document on 2
 | Ludovic Bocquet | 2020-10-29  | -00              | SCRAM-related changes including ordering                                            | https://mailarchive.ietf.org/arch/msg/kitten/ek52im03XXz0y4TmY4C9sxDospk/ |
 | Steve Thomas    | 2020-10-30  | -01              | hash speeds, work factors                                                           | https://mailarchive.ietf.org/arch/msg/kitten/jJdxBQUcmJBcYK7J4HlTJEH1MPg/ |
 | Alexey Melnikov | 2020-11-03  | -01              | elaboration on salts with SCRAM, origin of minimum iteration count                  | https://mailarchive.ietf.org/arch/msg/kitten/bqenAMNnhzq1bkoi3rfA3tahnVk/ |
+| Steve Thomas    | 2020-11-22  | -02              | scrypt details, hashing output length                                               | https://mailarchive.ietf.org/arch/msg/kitten/W3BRxHm1rlGlqeHG1jShioyHVMQ/ |
